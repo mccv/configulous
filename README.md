@@ -6,14 +6,14 @@ Dynamically evaluates scala files, allowing type safe configuration.
 Example
 =======
 
-   sbt console
-   scala> import com.twitter.configulous._
-   import com.twitter.configulous._
-
-   scala> Configulous.config[String]      
-   res0: String = classpath: /Users/mmcbride/bin/sbt-launcher.jar
-
-   scala> 
+    sbt console
+    scala> import com.twitter.configulous._
+    import com.twitter.configulous._
+    
+    scala> Configulous.config[String]      
+    res0: String = classpath: /Users/mmcbride/bin/sbt-launcher.jar
+    
+    scala> 
 
 Current Status
 ==============
