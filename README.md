@@ -52,3 +52,8 @@ The Good News
 
 Shit basically works
 
+Credits
+=======
+Original idea by Nick Kallen (@nk)
+
+
